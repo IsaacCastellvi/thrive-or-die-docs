@@ -7,6 +7,9 @@
 - **Insert Drawing in Note:** `![[filename.excalidraw]]`
 - **Open Drawing in Full View:** Right-click → *Open in Excalidraw view*
 
+### **Excalidraw diagrams will be saved  in  assets/excalidraw by default, use ![[]] to reference them.
+
+
 - **Preview example**:
  
 ![[Architechure preview]]
