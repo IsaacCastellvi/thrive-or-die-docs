@@ -18,17 +18,17 @@
 ---
 
 ## ✏️ Basic Controls
-| Action | Shortcut |
-|:--|:--|
-| Select Tool | `V` |
-| Draw (Pen/Shape/Text) | `E` |
-| Arrow Tool | `A` |
-| Erase | `Del` or `Backspace` |
-| Duplicate | `Alt + Drag` |
-| Group / Ungroup | `Ctrl/Cmd + G` / `Ctrl/Cmd + Shift + G` |
-| Undo / Redo | `Ctrl/Cmd + Z` / `Ctrl/Cmd + Y` |
-| Zoom In/Out | `Ctrl/Cmd + Mouse Wheel` |
-| Pan | `Space + Drag` or Middle Mouse Button |
+| Action                | Shortcut                                |
+| :-------------------- | :-------------------------------------- |
+| Select Tool           | `V`                                     |
+| Draw (Pen/Shape/Text) | `E`                                     |
+| Arrow Tool            | `A`                                     |
+| Erase                 | `Del` or `Backspace`                    |
+| Duplicate             | `Alt + Drag`                            |
+| Group / Ungroup       | `Ctrl/Cmd + G` / `Ctrl/Cmd + Shift + G` |
+| Undo / Redo           | `Ctrl/Cmd + Z` / `Ctrl/Cmd + Y`         |
+| Zoom In/Out           | `Ctrl/Cmd + Mouse Wheel`                |
+| Pan                   | `Space + Drag` or Middle Mouse Button   |
 
 ---
 # Git 
