@@ -9,6 +9,7 @@ test-prop: hola
 
 blablabla blebleble
 
+[[Architecthure]]
 # 🎮 Game Documentation Vault
 
 This repository contains all **internal game documentation**, including design notes, technical specs, art direction, and system diagrams for making our game .  
