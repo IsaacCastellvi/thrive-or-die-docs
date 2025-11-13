@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical-programing/Architecthure.md",
+                "file": "OBSIDIAN PLUGUINS USAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecthure"
+              "title": "OBSIDIAN PLUGUINS USAGE"
             }
           },
           {
@@ -125,16 +125,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN PLUGUINS USAGE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OBSIDIAN PLUGUINS USAGE"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,13 +276,43 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "8aec5c6adffe2ed0",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "ef130135a515e884",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "2b60662c02413fe9",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,18 +325,18 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f48fa179dbde55f3",
+  "active": "86d631f3503fbc21",
   "lastOpenFiles": [
     "README.md",
+    "_assets/DONT CHANCHE THE PARENT NAME.md",
+    "_assets/Excalidraw/Drawing 2025-11-13 09.03.37.excalidraw.md",
     "OBSIDIAN PLUGUINS USAGE.md",
     "Technical-programing/Architecthure.md",
     "_assets/Excalidraw/Architechure preview.md",
     "_assets/Excalidraw/Drawing 2025-11-12 17.58.06.excalidraw.md",
-    "_assets/DONT CHANCHE THE PARENT NAME.md",
     "Excalidraw/Drawing 2025-11-12 17.55.29.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-11-12 17.50.18.excalidraw.md",

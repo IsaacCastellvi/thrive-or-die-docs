@@ -38,4 +38,7 @@
 
  **Open terminal:** `Ctrl/Cmd + P` → `Terminal: Open new terminal tab`:
  - didn't test that much(planing on doing it)
- 
+# Trello
+
+**Create your trello token to the account that has the project trello:** [Authorize | Trello](https://trello.com/1/authorize?expiration=never&scope=read,write&response_type=token&name=Obsidian%20Trello%20Token&key=9537467993aefd6dca9ee7788179c298)
+### I cant install the plugin on the school pc so ill install it later )=
