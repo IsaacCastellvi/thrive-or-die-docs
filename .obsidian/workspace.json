@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Method.md",
+                "file": "Systems/ResourceSystem/Methods/Substract.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Method"
+              "title": "Substract"
             }
           }
         ]
@@ -249,8 +249,14 @@
   "active": "d0c3b767775fae5a",
   "lastOpenFiles": [
     "Systems/ResourceSystem/Resource.md",
+    "Systems/ResourceSystem/Methods/Substract.md",
+    "Systems/ResourceSystem/Methods/Set copy.md",
     "Systems/ResourceSystem/Methods/Add.md",
+    "Systems/ResourceSystem/Methods/Set.md",
+    "Systems/ResourceSystem/Methods/Add copy.md",
     "Templates/Method.md",
+    "Systems/ResourceSystem/ThriveOrDie.ResourceSystem.md",
+    "Systems/ResourceSystem/Namespace.md",
     "Templates",
     "Systems/ResourceSystem/Methods",
     "OBSIDIAN PLUGUINS USAGE.md",

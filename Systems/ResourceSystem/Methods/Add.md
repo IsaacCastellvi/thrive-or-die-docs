@@ -1,7 +1,7 @@
 #### Signature
 
 ```cs
-void Set(int amount);
+void Add(int amount);
 ```
 
 #### Parameters
