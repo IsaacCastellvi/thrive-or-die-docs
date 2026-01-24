@@ -17,4 +17,4 @@ The resource class is a container for any resource amount needed
 
 ###### Namespace
 
-[ThriveOrDie.ResourceSystem](ThriveOrDie.ResourceSystem.md)
+[ThriveOrDie.ResourceSystem](../ThriveOrDie.ResourceSystem.md)

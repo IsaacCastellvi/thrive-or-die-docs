@@ -1,3 +1,3 @@
 #### Scripts
 
-- [Resource](./Resource.md)
+- [Resource](./Resource/Resource.md)
