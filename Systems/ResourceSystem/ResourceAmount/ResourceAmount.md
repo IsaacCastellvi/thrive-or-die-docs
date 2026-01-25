@@ -1,6 +1,6 @@
 #### Description
 
-The resource class is a container for any resource amount needed
+The resource amount class is a container for any resource amount needed
 
 #### API Reference
 
