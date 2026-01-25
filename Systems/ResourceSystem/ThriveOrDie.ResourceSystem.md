@@ -1,3 +1,5 @@
-#### Scripts
+#### Scripts & Objects
 
-- [Resource](./Resource/Resource.md)
+- [ResourceManager](./ResourceManager/ResourceManager.md)
+- [ResourceAmount](./ResourceAmount/ResourceAmount.md)
+- [Cost](./Cost/Cost.md)
