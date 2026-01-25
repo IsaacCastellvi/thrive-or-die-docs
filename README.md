@@ -22,7 +22,7 @@ Built and maintained using **[Obsidian](https://obsidian.md)** with **Excalidraw
 ├── assets  
 ├── Art  
 ├── Design  
-├── Technical-programing  
+├── Systems
 ├── etc...   
 └── README.md
 
