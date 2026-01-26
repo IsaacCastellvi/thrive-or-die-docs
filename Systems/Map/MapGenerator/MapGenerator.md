@@ -8,21 +8,18 @@ This class acts according to the data stored in the [MapGenerationData](../MapGe
 
 <div class="borderless-table">
 
+> [!example] Fields
+> | Name | Type |Description |
+> | :------- | :-------------------------------------------- | :--------------------- |
+> | **groundMap:** | `IReadOnlyList<IReadOnlyList<MapTile>>` | Getter for a readonly version of the ground MapTile store |
+
 > [!example] Methods
 > | Name | Description | Ref |
 > | :------- | :-------------------------------------------- | :--------------------- |
 > | **PopulateMap:** | Populates the map (Gennerates it) | [PopulateMap](./Methods/PopulateMap.md) |
 
-> [!example] Fields
-> | Name | Type |Description |
-> | :------- | :-------------------------------------------- | :--------------------- |
-> | **wood:** | `int` | Getter for the colony's wood resource amount's underlying value |
-> | **scrap:** | `int` | Getter for the colony's scrap resource amount's underlying value|
-> | **food:** | `int` | Getter for the colony's food resource amount's underlying value |
-> | **water:** | `int` | Getter for the colony's water resource amount's underlying value |
-
 </div>
 
 ###### Namespace
 
-[ThriveOrDie.ResourceSystem](../ThriveOrDie.ResourceSystem.md)
+[ThriveOrDie.Map](../ThriveOrDie.Map.md)
