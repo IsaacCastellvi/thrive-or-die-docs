@@ -1,2 +1,5 @@
 .vscode
-.obsidian/
+
+.obsidian/*
+!.obsidian/
+!.obsidian/appearance.json

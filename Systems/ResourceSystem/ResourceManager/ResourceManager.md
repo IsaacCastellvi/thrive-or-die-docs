@@ -6,11 +6,6 @@ The Resource manager manages the root resources of a colony
 
 <div class="borderless-table">
 
-> [!example] Methods
-> | Name | Description | Ref |
-> | :------- | :-------------------------------------------- | :--------------------- |
-> | **HasFunds:** | Checks if the colony has enough funds to cover the cost | [HasFunds](./Methods/HasFunds.md) |
-
 > [!example] Fields
 > | Name | Type |Description |
 > | :------- | :-------------------------------------------- | :--------------------- |
@@ -18,6 +13,11 @@ The Resource manager manages the root resources of a colony
 > | **scrap:** | `int` | Getter for the colony's scrap resource amount's underlying value|
 > | **food:** | `int` | Getter for the colony's food resource amount's underlying value |
 > | **water:** | `int` | Getter for the colony's water resource amount's underlying value |
+
+> [!example] Methods
+> | Name | Description | Ref |
+> | :------- | :-------------------------------------------- | :--------------------- |
+> | **HasFunds:** | Checks if the colony has enough funds to cover the cost | [HasFunds](./Methods/HasFunds.md) |
 
 </div>
 
