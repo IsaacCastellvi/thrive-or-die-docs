@@ -6,12 +6,12 @@ void Template(bool isTemplate, int test = 3);
 
 #### Parameters
 
-- **isTemplate:** Description
-- **test:** Description
+- **isTemplate** Description
+- **test** Description
 
 ###### Defaults
 
-- **test:** `3`
+- **test** `3`
 
 #### Description
 

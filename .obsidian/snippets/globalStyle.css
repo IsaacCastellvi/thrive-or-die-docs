@@ -1,0 +1,13 @@
+table,
+th,
+td {
+  border: none !important;
+}
+
+.markdown-preview-section {
+  min-width: 60%;
+}
+
+table {
+  width: 100%;
+}

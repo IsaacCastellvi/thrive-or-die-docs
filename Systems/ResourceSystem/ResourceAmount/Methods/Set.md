@@ -6,7 +6,7 @@ void Set(int amount);
 
 #### Parameters
 
-- **amount:** The amount to set as the resource amount
+- **amount** The amount to set as the resource amount
 
 #### Description
 

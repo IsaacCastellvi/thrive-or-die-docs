@@ -6,7 +6,7 @@ static bool HasFunds(Cost cost);
 
 #### Parameters
 
-- **cost:** The cost of this resource
+- **cost** The cost of this resource
 
 #### Description
 

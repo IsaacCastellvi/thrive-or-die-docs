@@ -9,7 +9,7 @@ CameraMovement handles the camera movement
 > [!example] Fields
 > | Name | Type |Description |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **Move Zone:** | `int` | The offset from the scrreen edge in pixels where the mouse should move the camera |
+> | **Move Zone** | `int` | The offset from the scrreen edge in pixels where the mouse should move the camera |
 
 </div>
 

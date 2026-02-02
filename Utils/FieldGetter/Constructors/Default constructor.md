@@ -6,7 +6,7 @@ FieldGetter(Func<FieldType, FieldType> getter)
 
 #### Parameters
 
-- **getter:** The getter function to use when getting the value.
+- **getter** The getter function to use when getting the value.
 
 ##### Getter example
 

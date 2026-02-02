@@ -12,9 +12,9 @@ The Player settings are stored persistently under the name: `PlayerSettings.json
 > [!example] Methods
 > | Name | Description | Ref |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **Load:** | Loads the playerr settings | [Load](./Methods/Load.md) |
-> | **SetSettingValue:** | Sets a setting value | [SetSettingValue](./Methods/SetSettingValue.md) |
-> | **ResetToDefaults:** | Resets the settings to theirr default values| [ResetToDefaults](./Methods/ResetToDefaults.md) |
+> | **Load** | Loads the playerr settings | [Load](./Methods/Load.md) |
+> | **SetSettingValue** | Sets a setting value | [SetSettingValue](./Methods/SetSettingValue.md) |
+> | **ResetToDefaults** | Resets the settings to theirr default values| [ResetToDefaults](./Methods/ResetToDefaults.md) |
 
 </div>
 

@@ -11,12 +11,12 @@ This class acts according to the data stored in the [MapGenerationData](../MapGe
 > [!example] Fields
 > | Name | Type |Description |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **groundMap:** | `IReadOnlyList<IReadOnlyList<MapTile>>` | Getter for a readonly version of the ground MapTile store |
+> | **groundMap** | `IReadOnlyList<IReadOnlyList<MapTile>>` | Getter for a readonly version of the ground MapTile store |
 
 > [!example] Methods
 > | Name | Description | Ref |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **PopulateMap:** | Populates the map (Gennerates it) | [PopulateMap](./Methods/PopulateMap.md) |
+> | **PopulateMap** | Populates the map (Gennerates it) | [PopulateMap](./Methods/PopulateMap.md) |
 
 </div>
 
