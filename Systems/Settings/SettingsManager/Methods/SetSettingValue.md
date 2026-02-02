@@ -6,7 +6,7 @@ static void SetSettingValue<Type>(string name, Type value);
 
 #### Parameters
 
-- **name:** The name of the setting to set
+- **name** The name of the setting to set
 - **value** The value to set
 
 #### Generics

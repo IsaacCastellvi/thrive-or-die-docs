@@ -6,8 +6,8 @@ bool Substract(int amount, bool zeroOut = false);
 
 #### Parameters
 
-- **amount:** The amount to set as the resource amount
-- **zeroOut:** Whether to set to 0 in case of insuficient funds <br> Default `FALSE`
+- **amount** The amount to set as the resource amount
+- **zeroOut** Whether to set to 0 in case of insuficient funds <br> Default `FALSE`
 
 #### Returns
 

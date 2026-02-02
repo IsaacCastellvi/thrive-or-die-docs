@@ -9,7 +9,7 @@ Stores ann agrupation of resource amounts
 > [!example] Fields
 > | Name | Type |Description |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **costs:** | `ResourceAmount[]` | The collection of resource amounts |
+> | **costs** | `ResourceAmount[]` | The collection of resource amounts |
 
 </div>
 

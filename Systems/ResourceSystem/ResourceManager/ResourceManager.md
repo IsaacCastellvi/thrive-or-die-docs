@@ -9,15 +9,15 @@ The Resource manager manages the root resources of a colony
 > [!example] Fields
 > | Name | Type |Description |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **wood:** | `int` | Getter for the colony's wood resource amount's underlying value |
-> | **scrap:** | `int` | Getter for the colony's scrap resource amount's underlying value|
-> | **food:** | `int` | Getter for the colony's food resource amount's underlying value |
-> | **water:** | `int` | Getter for the colony's water resource amount's underlying value |
+> | **wood** | `int` | Getter for the colony's wood resource amount's underlying value |
+> | **scrap** | `int` | Getter for the colony's scrap resource amount's underlying value|
+> | **food** | `int` | Getter for the colony's food resource amount's underlying value |
+> | **water** | `int` | Getter for the colony's water resource amount's underlying value |
 
 > [!example] Methods
 > | Name | Description | Ref |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **HasFunds:** | Checks if the colony has enough funds to cover the cost | [HasFunds](./Methods/HasFunds.md) |
+> | **HasFunds** | Checks if the colony has enough funds to cover the cost | [HasFunds](./Methods/HasFunds.md) |
 
 </div>
 

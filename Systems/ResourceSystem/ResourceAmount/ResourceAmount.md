@@ -9,9 +9,9 @@ The resource amount class is a container for any resource amount needed
 > [!example] Methods
 > | Name | Description | Ref |
 > | :------- | :-------------------------------------------- | :--------------------- |
-> | **Add:** | Adds the passed amount to the resource amount | [Add](./Methods/Add.md) |
-> | **Set:** | Sets the passed amount as the resource amount | [Set](./Methods/Set.md) |
-> | **Substract:** | Substracts the passed amount as the current resource amount| [Substract](./Methods/Substract.md) |
+> | **Add** | Adds the passed amount to the resource amount | [Add](./Methods/Add.md) |
+> | **Set** | Sets the passed amount as the resource amount | [Set](./Methods/Set.md) |
+> | **Substract** | Substracts the passed amount as the current resource amount| [Substract](./Methods/Substract.md) |
 
 </div>
 

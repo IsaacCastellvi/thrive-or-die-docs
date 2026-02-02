@@ -6,7 +6,7 @@ void Add(int amount);
 
 #### Parameters
 
-- **amount:** The amount to add to the resource
+- **amount** The amount to add to the resource
 
 #### Description
 
